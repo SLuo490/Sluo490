@@ -3,6 +3,8 @@
 - 🔭 I’m currently a CS Student @ Cuny Hunter College
 - 🌱 I’m currently learning Data Structures and Algorithms, Front-End Web Development 
 
+<br>
+
 <a href = "https://github.com/SLuo490/Hungry" target = "_blank">
   <img src = "https://user-images.githubusercontent.com/19720373/120053078-4545e280-bff6-11eb-8802-4e6d4187c725.gif" width = "200" height = "400">
   <img src = "http://g.recordit.co/A5yvVIfcin.gif" width = "200" height = "400">
