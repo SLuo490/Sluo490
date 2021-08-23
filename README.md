@@ -1,5 +1,8 @@
 ### Hi there 👋, I am [Shi Tao](https://www.linkedin.com/in/shi-tao-luo-5539941a0/)
 
+- 🔭 I’m currently a CS Student @ Cuny Hunter College
+- 🌱 I’m currently learning Data Structures and Algorithms, Front-End Web Development 
+
 <a href = "https://github.com/SLuo490/Hungry" target = "_blank">
   <img src = "https://user-images.githubusercontent.com/19720373/120053078-4545e280-bff6-11eb-8802-4e6d4187c725.gif" width = "200" height = "400">
   <img src = "http://g.recordit.co/A5yvVIfcin.gif" width = "200" height = "400">
