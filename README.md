@@ -12,6 +12,7 @@
   <img src = "http://g.recordit.co/06iGbuf5y1.gif" width = "200" height = "400">
 </a>
 
+<br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -34,6 +35,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Xcode](https://img.shields.io/badge/-xcode-333333?style=flat&logo=xcode)
 
+<br>
 
 <a href="https://github.com/SLuo490">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SLuo490&theme=highcontrast&show_icons=true" />
