@@ -6,6 +6,12 @@
 <br>
 
 <div>
+  <a href = "https://github.com/SLuo490/Light-and-Sound-Game">
+      <img src="http://g.recordit.co/aYCN9crtfn.gif" width=500><br>
+  </a>
+</div>
+
+<div>
   <a href = "https://github.com/SLuo490/Hungry">
     <img src = "https://user-images.githubusercontent.com/19720373/120053078-4545e280-bff6-11eb-8802-4e6d4187c725.gif" width = "200" height = "400">
   </a>
