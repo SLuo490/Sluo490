@@ -20,16 +20,6 @@
   </a>
 </div>
 
-<p float = "left"> 
-  <a href = "https://github.com/SLuo490/Light-and-Sound-Game">
-    <img src="http://g.recordit.co/aYCN9crtfn.gif" width=500>
-  </a>
-  <a href = "https://github.com/SLuo490/Museum-of-Candy-Project">
-       <img src = "https://github.com/SLuo490/Museum-of-Candy-Project/blob/master/museumOfCandies.gif" width = "500">
-  </a>
-</p>
-
-
 <br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
