@@ -6,6 +6,8 @@
 <br>
 
 <div>
+  <a href = "https://github.com/SLuo490/portfolio"> 
+    <img src = "https://github.com/SLuo490/portfolio/blob/master/portfolio2.gif" width = "800"> 
   <a href = "https://github.com/SLuo490/Hungry">
     <img src = "https://user-images.githubusercontent.com/19720373/120053078-4545e280-bff6-11eb-8802-4e6d4187c725.gif" width = "200" height = "400">
   </a>
