@@ -5,10 +5,10 @@
 
 <br>
 
-<div>
+<!-- <div>
   <a href = "https://github.com/SLuo490/portfolio"> 
     <img src = "https://github.com/SLuo490/portfolio/blob/master/portfolio2.gif" width = "800"> 
-<div>
+<div> -->
   
 <div>?
   <a href = "https://github.com/SLuo490/Hungry">
