@@ -4,16 +4,8 @@
 - 🌱 I’m currently learning Data Structures and Algorithms and Front-End Web Development 
 
 <br>
-
-<!-- <div>
-  <a href = "https://github.com/SLuo490/portfolio"> 
-    <img src = "https://github.com/SLuo490/portfolio/blob/master/portfolio2.gif" width = "800"> 
-<div> -->
   
 <div>
-  <a href = "https://github.com/SLuo490/camp">
-     <img src = "https://github.com/SLuo490/camp/blob/master/Camp%20Landing%20Page.png" width="900" height="500">
-  </a>
   <a href = "https://github.com/SLuo490/Hungry">
     <img src = "https://user-images.githubusercontent.com/19720373/120053078-4545e280-bff6-11eb-8802-4e6d4187c725.gif" width = "200" height = "400">
   </a>
