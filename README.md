@@ -17,20 +17,23 @@
   <a href = "https://github.com/SLuo490/QR-Code">
      <img src = "https://github.com/SLuo490/QR-Code/blob/master/Screenshot/Screenshot_1.png" width = "250" height = "400">
   </a>
-</div>
-<div>
   <a href = "https://github.com/SLuo490/Hungry">
     <img src = "https://user-images.githubusercontent.com/19720373/120053078-4545e280-bff6-11eb-8802-4e6d4187c725.gif" width = "200" height = "400">
   </a>
+</div>
+<div>
+<!--   <a href = "https://github.com/SLuo490/Hungry">
+    <img src = "https://user-images.githubusercontent.com/19720373/120053078-4545e280-bff6-11eb-8802-4e6d4187c725.gif" width = "200" height = "400">
+  </a> -->
 <!--   <a href = "https://github.com/SLuo490/Flixster">
     <img src = "http://g.recordit.co/078LvVpTff.gif" width = "200" height = "400">
   </a> -->
-  <a href = "https://github.com/SLuo490/Twitter">
+<!--   <a href = "https://github.com/SLuo490/Twitter">
     <img src = "http://g.recordit.co/GSJxYFYujS.gif" width = "200" height = "400">
   </a>
   <a href = "https://github.com/SLuo490/Flix">
     <img src = "http://g.recordit.co/06iGbuf5y1.gif" width = "200" height = "400">
-  </a>
+  </a> -->
 </div>
 <br>
 
