@@ -54,7 +54,7 @@
 
 <br>
 
-[![Shi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sluo490)](https://github.com/sluo490/github-readme-stats)
+[![Shi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sluo490)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SLuo490/Sluo490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
