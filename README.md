@@ -6,6 +6,12 @@
 <br>
 
 <div>
+  <a href = "https://confessions-15d56.web.app/">
+    <img width="1440" alt="Screenshot 2023-04-12 at 4 47 27 PM" src="https://user-images.githubusercontent.com/56377738/231581328-200fa69f-29e4-4f3d-8e1a-8380a167212e.png">
+  </a>
+  <a href = "https://github.com/SLuo490/geocoding">
+  <img width="1440" alt="Screenshot 2023-04-12 at 4 55 26 PM" src="https://user-images.githubusercontent.com/56377738/231583088-e9829850-e417-425c-a2f7-32f5247c5dce.png">
+  </a>
   <a href = "https://github.com/SLuo490/Hungry">
     <img src = "https://user-images.githubusercontent.com/19720373/120053078-4545e280-bff6-11eb-8802-4e6d4187c725.gif" width = "200" height = "400">
   </a>
@@ -16,22 +22,7 @@
      <img src = "https://github.com/SLuo490/QR-Code/blob/master/Screenshot/Screenshot_1.png" width = "250" height = "400">
   </a>
 </div>
-<div>
-<!--   <a href = "https://github.com/SLuo490/Hungry">
-    <img src = "https://user-images.githubusercontent.com/19720373/120053078-4545e280-bff6-11eb-8802-4e6d4187c725.gif" width = "200" height = "400">
-  </a> -->
-<!--   <a href = "https://github.com/SLuo490/Flixster">
-    <img src = "http://g.recordit.co/078LvVpTff.gif" width = "200" height = "400">
-  </a> -->
-<!--   <a href = "https://github.com/SLuo490/Twitter">
-    <img src = "http://g.recordit.co/GSJxYFYujS.gif" width = "200" height = "400">
-  </a>
-  <a href = "https://github.com/SLuo490/Flix">
-    <img src = "http://g.recordit.co/06iGbuf5y1.gif" width = "200" height = "400">
-  </a> -->
-</div>
 <br>
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -55,20 +46,5 @@
 <br>
 
 [![Shi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sluo490)](https://github.com/anuraghazra/github-readme-stats)
+<br> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sluo490&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**SLuo490/Sluo490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
