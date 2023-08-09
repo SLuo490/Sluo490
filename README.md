@@ -1,6 +1,6 @@
 ### Hi there 👋, I am [Shi Tao](https://www.linkedin.com/in/shi-tao-luo-5539941a0/)
 
-- 🔭 I’m currently a CS Student @ Cuny Hunter College
+- 🔭 I’m graduate @ Cuny Hunter College majored in Computer Science
 - 🌱 I’m currently learning Data Structures and Algorithms, and Full Stack Web Development @ Cuny Tech Prep
 
 <br>
