@@ -2,11 +2,12 @@
 
 ```python
 const Shi_Tao = {
-  code: [C++, Python, React, HTML, CSS/Bootstrap, JavaScript, JSON ],
+  code: [C++, Python, React, HTML, CSS/Bootstrap, JavaScript, JSON],
   technologies: [Git/GitHub, Unix, Linux, MongoDB,
           Android Studio, Visual Studio Code, XCode,
           Google Slides, Google Sheets, Google Docs, Trello Board, 
-          Jira]
+          Jira],
+  learning: [Flutter, React Native, Data Structures and Algorithms]
 }
 ```
 
