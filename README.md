@@ -1,6 +1,6 @@
 ### Hi there 👋, I am [Shi Tao](https://www.linkedin.com/in/shi-tao-luo-5539941a0/)
 
-I am a 23-year-old developer based in New York City, and I'm passionate about creating both web and mobile applications. 
+I am a 23-year-old developer based in New York City. I'm passionate about creating web and mobile applications. 
 
 ```python
 const Shi_Tao = {
@@ -13,11 +13,13 @@ const Shi_Tao = {
   other: ['Figma', 'Jira', 'Scrum']
 }
 ```
+<be>
+
+## My Stats
+<div align="center" width="876">
+  <img src="https://github-readme-stats.vercel.app/api?username=sluo490&theme=tokyonight&show_icons=true&rank_icon=percentile&include_all_commits=true&number_format=short" width="460">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sluo490&layout=compact&theme=tokyonight&langs_count=6&hide=Shaderlab,HLSL,css,makefile,C,CMake,Python&exclude_repo=cs49385" width="350">
+</div>
 
 ## Contact
 You can reach me on [LinkedIn](https://www.linkedin.com/in/sluo490/)
-
-<br>
-
-[![Shi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sluo490)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sluo490&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
