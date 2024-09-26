@@ -8,8 +8,8 @@ const Shi_Tao = {
   back_end: ['NodeJS', 'Firebase', 'ExpressJS', 'MongoDB'],
   mobile: ['Flutter']
   version_control: ['Git', 'GitHub'],
-  ide: ['Visual Studio Code', 'Android Studio', 'XCode'],
-  learning: ['Data Structures and Algorithm', 'NextJS'],
+  ide: ['nvim', 'Visual Studio Code', 'Android Studio', 'XCode'],
+  learning: ['Data Structures and Algorithm', 'UI/UX'],
   other: ['Figma', 'Jira', 'Scrum']
 }
 ```
