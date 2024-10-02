@@ -17,7 +17,7 @@ const Shi_Tao = {
 
 ## My Stats
 <div align="center" width="876">
-  <img src="https://github-readme-stats.vercel.app/api?username=sluo490&theme=tokyonight&show_icons=true&rank_icon=percentile&include_all_commits=true&number_format=short" width="460">
+  <img src="https://github-readme-stats.vercel.app/api?username=sluo490&theme=tokyonight" width="460">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sluo490&layout=compact&theme=tokyonight&langs_count=6&hide=Shaderlab,HLSL,css,makefile,C,CMake,Python&exclude_repo=cs49385" width="350">
 </div>
 
