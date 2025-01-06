@@ -6,7 +6,7 @@ I am a 23-year-old developer based in New York City. I'm passionate about creati
 const Shi_Tao = {
   front_end: ['HTML/CSS', 'JavaScript', 'React', 'Tailwind'],
   back_end: ['NodeJS', 'Firebase', 'ExpressJS', 'MongoDB'],
-  mobile: ['Flutter']
+  mobile: ['Flutter', 'iOS']
   version_control: ['Git', 'GitHub'],
   ide: ['nvim', 'Visual Studio Code', 'Android Studio', 'XCode'],
   learning: ['Data Structures and Algorithm', 'UI/UX'],
